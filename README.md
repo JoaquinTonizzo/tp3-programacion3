@@ -1,6 +1,6 @@
-# Trabajo Práctico 3 - Programación III ​✨​
+# Trabajo Práctico 3 - Programación III
 
-## Descripción 📉​
+## Descripción
 
 Este proyecto consiste en la implementación de un algoritmo goloso para resolver el problema de la clique de peso máximo en un grafo dado. Una clique es un conjunto de vértices donde todos están conectados entre sí, y cada vértice tiene un peso asociado. El objetivo es encontrar una clique con el mayor peso posible utilizando un algoritmo goloso.
 
